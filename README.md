@@ -1,7 +1,13 @@
-# 👨‍💻 Eduardo Data Portfolio
+# Eduardo Data Portfolio
 
 <p align="center">
   Portfólio de projetos em <strong>Dados, Inteligência Artificial, Engenharia de Dados e Desenvolvimento de Software</strong>.
+</p>
+
+<p align="center">
+  <a href="https://dudxzz-25.github.io/portfolio-web/">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-Online-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Acessar Portfólio">
+  </a>
 </p>
 
 <p align="center">
@@ -19,7 +25,19 @@
 
 Sou **Eduardo de Toledo Dias**, estudante de Ciência da Computação com interesse em **Dados, Inteligência Artificial e Desenvolvimento de Software**.
 
-Este portfólio reúne projetos que exploram diferentes etapas do desenvolvimento de soluções, incluindo coleta e transformação de dados, modelagem SQL, Machine Learning, aplicações web e programação de baixo nível.
+Este portfólio reúne projetos que exploram diferentes etapas do desenvolvimento de soluções, incluindo:
+
+- preparação e transformação de dados;
+- modelagem e consultas SQL;
+- Engenharia de Dados;
+- Machine Learning;
+- processamento de linguagem natural;
+- aplicações web;
+- programação orientada a objetos;
+- programação em C e manipulação de arquivos.
+
+🌐 **Portfólio online:**  
+https://dudxzz-25.github.io/portfolio-web/
 
 ---
 
@@ -27,17 +45,15 @@ Este portfólio reúne projetos que exploram diferentes etapas do desenvolviment
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **DataFlow Analytics** | Pipeline ETL com validação, transformação e carga de dados | Python, SQL, Pandas |
-| **Customer Intelligence** | Segmentação de clientes utilizando RFM e K-Means | Python, SQL, Machine Learning |
-| **AI Recruiter** | Análise de currículos e vagas utilizando NLP e similaridade textual | Python, NLP, Flask |
-| **FraudShield** | Detecção de transações suspeitas e análise de métricas de classificação | Python, SQL, Machine Learning |
-| **DemandForecast AI** | Previsão de demanda utilizando modelos estatísticos e Machine Learning | Python, SQL, scikit-learn |
-| **E-commerce Data Warehouse** | Data Warehouse com modelo estrela e pipeline ETL dimensional | SQL, Python, Data Engineering |
-| **DevTrack** | Aplicação Kanban responsiva com persistência local | JavaScript, HTML, CSS |
-| **FinControl Java** | Sistema bancário em linha de comando aplicando conceitos de POO | Java, OOP |
-| **MiniDB C** | Mini banco de dados com armazenamento binário e operações CRUD | C, File Handling, CLI |
-
-> Os cards do portfólio possuem links diretos para os respectivos repositórios no GitHub.
+| [**DataFlow Analytics**](https://github.com/dudxzz-25/dataflow-analytics) | Pipeline ETL com validação, transformação e carga de dados | Python, SQL, Pandas |
+| [**Customer Intelligence**](https://github.com/dudxzz-25/customer-intelligence) | Segmentação de clientes utilizando RFM e K-Means | Python, SQL, Machine Learning |
+| [**AI Recruiter**](https://github.com/dudxzz-25/ai-recruiter) | Análise de currículos e vagas utilizando NLP e similaridade textual | Python, NLP, Flask |
+| [**FraudShield**](https://github.com/dudxzz-25/fraudshield) | Detecção de transações suspeitas e análise de métricas de classificação | Python, SQL, Machine Learning |
+| [**DemandForecast AI**](https://github.com/dudxzz-25/demandforecast-ai) | Previsão de demanda utilizando modelos de Machine Learning e variáveis temporais | Python, SQL, scikit-learn |
+| [**E-commerce Data Warehouse**](https://github.com/dudxzz-25/ecommerce-datawarehouse) | Data Warehouse com modelo estrela e pipeline ETL dimensional | SQL, Python, Data Engineering |
+| [**DevTrack**](https://github.com/dudxzz-25/devtrack) | Aplicação Kanban responsiva com persistência no navegador | JavaScript, HTML, CSS |
+| [**FinControl Java**](https://github.com/dudxzz-25/fincontrol-java) | Sistema bancário em linha de comando aplicando conceitos de POO | Java, OOP |
+| [**MiniDB C**](https://github.com/dudxzz-25/minidb-c) | Mini banco de dados com armazenamento binário e operações CRUD | C, File Handling, CLI |
 
 ---
 
@@ -60,6 +76,7 @@ Este portfólio reúne projetos que exploram diferentes etapas do desenvolviment
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -69,9 +86,22 @@ Este portfólio reúne projetos que exploram diferentes etapas do desenvolviment
 - Tema claro e escuro
 - Preferência de tema armazenada com LocalStorage
 - Filtros de projetos por categoria
-- Links diretos para todos os projetos
+- Links diretos para os repositórios
 - Integração com GitHub, LinkedIn e e-mail
-- Interface desenvolvida com HTML, CSS e JavaScript puro
+- Animações e feedback visual nos cards
+- Navegação por seções
+- Deploy com GitHub Pages
+- Desenvolvimento com HTML, CSS e JavaScript puro
+
+---
+
+## 🌐 Deploy
+
+O portfólio está publicado utilizando **GitHub Pages**.
+
+**Acesse:**
+
+https://dudxzz-25.github.io/portfolio-web/
 
 ---
 
@@ -101,9 +131,11 @@ Acesse no navegador:
 http://localhost:8000
 ```
 
+Também é possível abrir o arquivo `index.html` diretamente no navegador.
+
 ---
 
-## 📂 Estrutura
+## 📂 Estrutura do projeto
 
 ```text
 portfolio-web/
@@ -124,7 +156,8 @@ portfolio-web/
 
 📧 **E-mail:** dujulu25@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/eduardo-de-toledo-dias-880b9834b/  
-💻 **GitHub:** https://github.com/dudxzz-25
+💻 **GitHub:** https://github.com/dudxzz-25  
+🌐 **Portfólio:** https://dudxzz-25.github.io/portfolio-web/
 
 ---
 
