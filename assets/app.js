@@ -61,6 +61,13 @@ const projects = [
     'Armazenamento binário com CRUD em C.',
     ['C', 'Files', 'CLI'],
     'dev'
+  ],
+  [
+    '10',
+    'Lighthouse Nautical Analytics',
+    'Projeto end-to-end com EDA, PostgreSQL, previsão de demanda, recomendação e dashboard.',
+    ['Python', 'SQL', 'ML'],
+    'ai data'
   ]
 ];
 
@@ -73,7 +80,8 @@ const repositories = {
   '06': 'ecommerce-datawarehouse',
   '07': 'devtrack',
   '08': 'fincontrol-java',
-  '09': 'minidb-c'
+  '09': 'minidb-c',
+  '10': 'lighthouse-nautical-analytics'
 };
 
 const grid = document.querySelector('#grid');
