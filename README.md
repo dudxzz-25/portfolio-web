@@ -18,17 +18,17 @@ Cada projeto possui acesso direto ao respectivo repositório no GitHub.
 
 ## Projetos
 
-O portfólio apresenta projetos como:
+O portfólio apresenta os seguintes projetos:
 
-- DataFlow Analytics — pipeline ETL com Python e SQL
-- Customer Intelligence — segmentação RFM e K-Means
-- AI Recruiter — análise de currículos com NLP
-- FraudShield — detecção de fraude com Machine Learning
-- DemandForecast AI — previsão de demanda
-- E-commerce Data Warehouse — modelagem dimensional e ETL
-- DevTrack — aplicação Kanban em JavaScript
-- FinControl Java — sistema bancário utilizando POO
-- MiniDB C — armazenamento binário e operações CRUD em C
+- **DataFlow Analytics** — pipeline ETL com Python e SQL
+- **Customer Intelligence** — segmentação RFM e K-Means
+- **AI Recruiter** — análise de currículos com NLP
+- **FraudShield** — detecção de fraude com Machine Learning
+- **DemandForecast AI** — previsão de demanda
+- **E-commerce Data Warehouse** — modelagem dimensional e ETL
+- **DevTrack** — aplicação Kanban em JavaScript
+- **FinControl Java** — sistema bancário utilizando POO
+- **MiniDB C** — armazenamento binário e operações CRUD em C
 
 ## Tecnologias
 
