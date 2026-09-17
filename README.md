@@ -1,11 +1,7 @@
-# Eduardo Data Portfolio
-
-Portfólio pessoal de **Eduardo de Toledo Dias**, desenvolvido para apresentar projetos em **Dados, Inteligência Artificial, Engenharia de Dados e Desenvolvimento de Software**.
-
-## Sobre
-
+Eduardo Data Portfolio
+Portfólio pessoal de Eduardo de Toledo Dias, desenvolvido para apresentar projetos em Dados, Inteligência Artificial, Engenharia de Dados e Desenvolvimento de Software.
+Sobre
 O site reúne projetos desenvolvidos com foco em:
-
 - Python e SQL
 - Análise e Engenharia de Dados
 - Machine Learning
@@ -13,25 +9,19 @@ O site reúne projetos desenvolvidos com foco em:
 - Desenvolvimento Web
 - Java e Programação Orientada a Objetos
 - C e conceitos de baixo nível
-
 Cada projeto possui acesso direto ao respectivo repositório no GitHub.
-
-## Projetos
-
+Projetos
 O portfólio apresenta os seguintes projetos:
-
-- **DataFlow Analytics** — pipeline ETL com Python e SQL
-- **Customer Intelligence** — segmentação RFM e K-Means
-- **AI Recruiter** — análise de currículos com NLP
-- **FraudShield** — detecção de fraude com Machine Learning
-- **DemandForecast AI** — previsão de demanda
-- **E-commerce Data Warehouse** — modelagem dimensional e ETL
-- **DevTrack** — aplicação Kanban em JavaScript
-- **FinControl Java** — sistema bancário utilizando POO
-- **MiniDB C** — armazenamento binário e operações CRUD em C
-
-## Tecnologias
-
+- DataFlow Analytics — pipeline ETL com Python e SQL
+- Customer Intelligence — segmentação RFM e K-Means
+- AI Recruiter — análise de currículos com NLP
+- FraudShield — detecção de fraude com Machine Learning
+- DemandForecast AI — previsão de demanda
+- E-commerce Data Warehouse — modelagem dimensional e ETL
+- DevTrack — aplicação Kanban em JavaScript
+- FinControl Java — sistema bancário utilizando POO
+- MiniDB C — armazenamento binário e operações CRUD em C
+Tecnologias
 - HTML5
 - CSS3
 - JavaScript
@@ -40,9 +30,7 @@ O portfólio apresenta os seguintes projetos:
 - Git
 - GitHub
 - GitHub Pages
-
-## Funcionalidades
-
+Funcionalidades
 - Layout responsivo
 - Tema claro e escuro
 - Persistência da preferência de tema com LocalStorage
@@ -50,10 +38,20 @@ O portfólio apresenta os seguintes projetos:
 - Links diretos para os repositórios
 - Integração com GitHub, LinkedIn e e-mail
 - Interface adaptada para dispositivos móveis
-
-## Executar localmente
-
+Executar localmente
 Clone o repositório:
-
-```bash
 git clone https://github.com/dudxzz-25/portfolio-web.git
+Entre na pasta:
+cd portfolio-web
+Inicie um servidor local:
+python -m http.server 8000
+Depois acesse:
+http://localhost:8000
+Também é possível abrir o arquivo index.html diretamente no navegador.
+Contato
+Eduardo de Toledo Dias
+- GitHub: https://github.com/dudxzz-25
+- LinkedIn: https://www.linkedin.com/in/eduardo-de-toledo-dias-880b9834b/
+- E-mail: dujulu25@gmail.com
+Objetivo
+Este portfólio foi desenvolvido como uma central para reunir projetos acadêmicos e pessoais e demonstrar habilidades práticas em desenvolvimento de software, dados e inteligência artificial.
