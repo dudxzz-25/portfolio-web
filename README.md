@@ -54,6 +54,7 @@ https://dudxzz-25.github.io/portfolio-web/
 | [**DevTrack**](https://github.com/dudxzz-25/devtrack) | Aplicação Kanban responsiva com persistência no navegador | JavaScript, HTML, CSS |
 | [**FinControl Java**](https://github.com/dudxzz-25/fincontrol-java) | Sistema bancário em linha de comando aplicando conceitos de POO | Java, OOP |
 | [**MiniDB C**](https://github.com/dudxzz-25/minidb-c) | Mini banco de dados com armazenamento binário e operações CRUD | C, File Handling, CLI |
+| [**Lighthouse Nautical Analytics**](https://github.com/dudxzz-25/lighthouse-nautical-analytics) | Projeto end-to-end com EDA, PostgreSQL, previsão de demanda, recomendação e dashboard | Python, SQL, PostgreSQL, Machine Learning |
 
 ---
 
