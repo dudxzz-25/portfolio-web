@@ -324,6 +324,38 @@ body.dark .project:hover {
 
 
 /* =========================
+   MORE PROJECTS
+========================= */
+
+.more-projects {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 48px;
+}
+
+.more-projects > div {
+  max-width: 720px;
+}
+
+.more-projects h2 {
+  margin-bottom: 18px;
+}
+
+.more-projects p:not(.kicker) {
+  margin: 0;
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.more-projects-link {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+
+/* =========================
    SKILLS
 ========================= */
 
@@ -429,6 +461,12 @@ button:focus-visible {
   .section-head {
     align-items: start;
     flex-direction: column;
+  }
+
+  .more-projects {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 28px;
   }
 
   #grid {
