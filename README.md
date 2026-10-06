@@ -1,5 +1,7 @@
 # Eduardo Data Portfolio
 
+[![CI](https://github.com/dudxzz-25/portfolio-web/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/portfolio-web/actions/workflows/ci.yml)
+
 <p align="center">
   Portfólio de projetos em <strong>Data Analytics, Business Intelligence, Inteligência Artificial, Engenharia de Dados e Software</strong>.
 </p>
